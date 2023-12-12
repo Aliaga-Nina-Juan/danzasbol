@@ -1,0 +1,95 @@
+
+.datos{
+    background-color: aliceblue;
+    display: flex;
+    width: 100%;
+    height: 1000px;
+}
+
+
+.entrada-datos{
+    display: flex;
+    background: url('../imagenes/Fondo.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+    border: none;
+    
+    justify-content: center;
+    align-items: center;
+}
+
+.wrapper{
+    width: 800px;
+    background-color: transparent;
+    border: 4px solid rgb(255,255,255, .2);
+    color: #fff;
+    border-radius: 15px;
+    padding: 30px 40px;
+    backdrop-filter: blur(10px);
+}
+
+.wrapper h1{
+    font-size: 36px;
+    text-align: center;
+}
+
+.wrapper .input-box{
+    width: 100%;
+    height: 50px;
+    
+    margin: 45px 0;
+}
+
+.input-box input{
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    border: 3px solid rgb(255,255,255, .2);
+    border-radius: 40px;
+    font-size: 30px;
+    padding: 30px 50px 30px 30px;
+    
+}
+
+.input-box input::placeholder {
+    color:#ffffffd8;
+    font-weight: 400;
+  }
+
+.wrapper .btn{
+    
+    width: 100%;
+    height: 80px;
+    border: none;
+    background: darkred;
+    outline: none;
+    border-radius: 40px;
+    color: #333;
+    box-shadow: 0 0 10px rgba(0,0,0,.1);
+}
+
+.salida-datos{
+    text-align: center;
+    height: 1000px;
+    display: flex;
+    background-image: linear-gradient(to right,red,green);
+    padding: 100px;
+}
+
+.input-box1 input{
+    width: 100%;
+    height: 100%;
+    background-color: transparent;
+    border: none;
+    outline: none;
+    border: 3px solid rgb(255,255,255, .2);
+    border-radius: 40px;
+    font-size: 50px;
+    padding: 30px 50px 30px 30px;
+    
+}
+
+
+

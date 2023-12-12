@@ -1,0 +1,15 @@
+.Acordiones{
+    background-color: transparent;
+}
+.C{
+    background-color: transparent;
+}
+
+.accordion-item{
+    
+    background-color: black;
+}
+
+.accordion-button{
+    background-image: linear-gradient(to right,red ,gold);
+}

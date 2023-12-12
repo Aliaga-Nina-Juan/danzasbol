@@ -1,0 +1,9 @@
+.fotos{
+    width: 500px;
+    height: 500px;
+}
+.card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

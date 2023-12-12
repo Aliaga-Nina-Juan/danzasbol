@@ -1,0 +1,61 @@
+.contenedor{
+    height: 1000px;
+}
+.Imagen-principal{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(to bottom,red,blue);
+    border: solid;
+}
+.Titulo-principal{
+    background-color: brown;
+    border:solid;
+    height: 100%;
+    background-image: linear-gradient(to bottom,red,yellow ,green);
+   
+    text-align: center;
+    display: inline-flexbox;
+    align-items: center;
+    
+
+}
+
+img{
+    height: 900px;
+    width: 700px;
+}
+
+.Imagenes{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
+.Im1{
+    
+    height: 400px;
+    margin: 30px;
+    border: solid;
+    
+}
+.Im2{
+    
+    height: 400px;
+    margin: 30px;
+    border: solid;
+    
+}
+
+.imagen-departamento{
+    height: 10px;
+}
+
+.footer
+{
+    background-image: linear-gradient(to bottom,red,yellow ,green);
+    text-align: end;
+}

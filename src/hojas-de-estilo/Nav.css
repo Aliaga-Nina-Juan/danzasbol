@@ -1,0 +1,12 @@
+.container-fluid{
+    background-image: linear-gradient(to right,red,yellow ,green);
+}
+
+
+.nav-brand{
+    border: 1px solid green;
+}
+.nav-item{
+    border: 1px solid green;
+    border-radius: 40px;
+}
